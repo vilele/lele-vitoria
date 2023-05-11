@@ -1,3 +1,10 @@
-body{
-    background-color: crimson;
+header {background-color: crimson;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: ;
+}
+.cabeçalho-imagem{
+    width: 50%;
 }
