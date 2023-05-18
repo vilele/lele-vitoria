@@ -3,8 +3,44 @@ header {background-color: crimson;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: ;
+    padding: 23px;
+    
 }
-.cabeçalho-imagem{
-    width: 50%;
+.img1{
+    width: 410px;
+ }
+ .img2{
+    width: 410px;
+ }
+ .img3{
+    width:410px;
+ }
+ .img4{
+    width: 410px;
+ }
+ .img5{
+    width: 410px;
+ }
+ .img6{
+    width: 410px;
+ }
+ .img7{
+    width: 410px;
+ }
+ .img8{
+    width: 410px;
+ }
+ .img9{
+    width: 410px; ;
+ }
+ 
+
+.cabeçalho-lista-imagem{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 23px;
+}
+
+.imagem{
+    background-image:linear-gradient() ;
 }
