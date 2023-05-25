@@ -3,7 +3,7 @@ header {background-color: crimson;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 23px;
+    padding: 23px 0;
     
 }
 .img1{
@@ -35,9 +35,9 @@ header {background-color: crimson;
  }
  
 
-.cabeçalho-lista-imagem{
+.cabeçalho-lista-item{
     display: inline-block;
-    margin: 0 16px;
+    margin: 0 18px;
     font-size: 23px;
 }
 
